@@ -1,0 +1,59 @@
+#titulo {
+    color: aquamarine;
+}
+
+.red {
+    color: red;
+}
+
+.destacado {
+    color: burlywood;
+}
+
+#subtitulo {
+    color: blue;
+}
+
+a:link {
+    color: red;
+}
+
+a em {
+    color: blue;
+}
+
+th {
+    color: red;
+}
+
+td {
+    color: green;
+}
+
+td strong {
+    color: coral;
+}
+
+.especial {
+    color: coral;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+table caption {
+    opacity: 0;
+}
+
+#adicional {
+    color: darkolivegreen;
+}
+
+#especial {
+    color: rgb(212, 123, 138);
+}
+
+#adicional p a {
+    color: green;
+}
