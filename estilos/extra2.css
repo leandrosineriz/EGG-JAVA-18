@@ -1,0 +1,26 @@
+table, th, td {
+    border: 0.12rem solid black;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+
+thead {
+    /*background-color: rgb(203, 217, 243);*/
+    background-image: url("/imagenes/fondo_gris.gif");
+}
+.color1{
+    background-color: #FFFFCC;
+}
+
+tbody th{
+    text-align: left;
+    background-color: #E6F3FF;
+}
+tbody th span {
+    vertical-align: 0.15rem;
+    
+}
+
+th {
+    font-weight: bolder;
+}
